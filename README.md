@@ -3,7 +3,9 @@ Docker Registry tag清理
 
 # 环境变量说明
 REGISTRY_URL：私有仓库的地址
+
 REMAIN_TAG_NUM：保留最新的tag个数
+
 REPO_REGEX_PATTERN：匹配仓库的正则表达式
 
 # 脚本部署
